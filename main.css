@@ -28,3 +28,10 @@ padding: 0.5em;
 a {
 color: #aaffff;
 }
+
+summary {
+color: #000000;
+border: 2px #ffffff solid;
+background-color: #ff7575;
+padding: 1em;
+}
