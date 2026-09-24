@@ -1,0 +1,30 @@
+body {
+background-color: #323232;
+}
+
+h1 {
+color: #ffffff;
+text-align: center;
+}
+
+h2 {
+color: #64e1ff;
+}
+
+p {
+color: #ffffaf;
+border: 2px #ffffff solid;
+background-color: #000000;
+padding: 0.5em;
+}
+
+ul {
+color: #ffffff;
+border: 2px #ffffff solid;
+background-color: #000000;
+padding: 0.5em;
+}
+
+a {
+color: #aaffff;
+}
