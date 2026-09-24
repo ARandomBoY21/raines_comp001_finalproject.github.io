@@ -35,3 +35,11 @@ border: 2px #ffffff solid;
 background-color: #ff7575;
 padding: 1em;
 }
+
+footer {
+color: #000000;
+border: 2px #ffffff solid;
+background-color: #000000;
+padding: 1em;
+text-align: center;
+}
