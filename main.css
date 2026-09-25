@@ -18,6 +18,12 @@ background-color: #000000;
 padding: 0.5em;
 }
 
+.vidcap {
+color: #e1e1e1;
+max-width: 550px;
+width: 100%;
+}
+
 ul {
 color: #ffffff;
 border: 2px #ffffff solid;
