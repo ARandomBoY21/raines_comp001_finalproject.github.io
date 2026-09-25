@@ -11,6 +11,61 @@ h2 {
 color: #64e1ff;
 }
 
+cr {
+color: #ff5555;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+/* idk how to make a css thing similar to h2 but different so I'm just recreating h2 :sob: */
+}
+
+cc {
+color: #55ffff;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+}
+
+cp {
+color: #aa55ff;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+}
+
+cy {
+color: #ffff55;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+}
+
+cb {
+color: #5555ff;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+}
+
+cw {
+color: #ffcfff;
+display: block;
+font-size: 1.5em;
+font-weight: bold;
+margin-top: 0.83em;
+margin-bottom: 0.83em;
+}
+
 p {
 color: #ffffaf;
 border: 2px #ffffff solid;
