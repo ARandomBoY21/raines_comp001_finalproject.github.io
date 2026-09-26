@@ -82,6 +82,13 @@ background-color: #000000;
 padding: 0.5em;
 }
 
+li {
+color: #ffffaf;
+border: 2px #ffffff solid;
+background-color: #000000;
+padding: 0.5em;
+}
+
 .cap {
 color: #e1e1e1;
 max-width: 550px;
